@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Chat</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="signup">Зарегистрироваться</string>
 </resources>
