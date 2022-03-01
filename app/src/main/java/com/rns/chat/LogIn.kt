@@ -1,14 +1,12 @@
-package com.example.chat
+package com.rns.chat
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import androidx.activity.result.ActivityResult
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
-import com.example.chat.databinding.ActivityLogInBinding
-import com.example.chat.databinding.ActivitySignUpBinding
+import com.rns.chat.databinding.ActivityLogInBinding
 
 class LogIn : AppCompatActivity() {
 

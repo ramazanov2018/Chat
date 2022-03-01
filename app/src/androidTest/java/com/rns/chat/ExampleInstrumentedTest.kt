@@ -1,4 +1,4 @@
-package com.example.chat
+package com.rns.chat
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
