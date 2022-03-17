@@ -28,7 +28,7 @@
         android:paddingLeft="18dp" />
 
     <EditText
-        android:id="@+id/edt_username"
+        android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/edt_name"
@@ -37,14 +37,14 @@
         android:layout_marginRight="20dp"
         android:height="50dp"
         android:background="@drawable/edt_background"
-        android:hint="@string/edt_username"
+        android:hint="@string/email"
         android:paddingLeft="18dp" />
 
     <EditText
         android:id="@+id/edt_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/edt_username"
+        android:layout_below="@id/edt_email"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="18dp"
         android:layout_marginRight="20dp"
